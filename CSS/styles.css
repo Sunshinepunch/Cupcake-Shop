@@ -1,0 +1,13 @@
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+img {
+  width: 50%;
+  margin: auto;
+  height: auto;
+}
+.center{
+  text-align: center;
+}
