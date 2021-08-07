@@ -11,3 +11,7 @@ img {
 .center{
   text-align: center;
 }
+.best{
+  font-weight: bold;
+  font-size: 50px;
+}
